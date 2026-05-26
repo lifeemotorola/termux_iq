@@ -231,8 +231,8 @@ chmod +x neurox_iq.sh
 ### Method 4: Git Clone
 
 ```bash
-git clone (https://github.com/lifeemotorola/termux_iq.git)
-cd neurox-iq
+git clone https://github.com/lifeemotorola/termux_iq.git
+cd termux_iq
 chmod +x neurox_iq.sh
 ./neurox_iq.sh
 ```
