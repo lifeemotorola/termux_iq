@@ -103,7 +103,7 @@ in your terminal with full color UI and animations.
 ### One-Line Setup (Termux)
 
 ```bash
-curl -sL https://raw.githubusercontent.com/yourrepo/neurox/main/neurox_iq.sh \
+curl -sL https://github.com/lifeemotorola/termux_iq/main/neurox_iq.sh \
   -o neurox_iq.sh && chmod +x neurox_iq.sh && ./neurox_iq.sh
 ```
 
@@ -200,7 +200,7 @@ neurox
 
 ```bash
 # Clone or download
-wget -O neurox_iq.sh https://raw.githubusercontent.com/yourrepo/neurox/main/neurox_iq.sh
+wget -O neurox_iq.sh https://github.com/lifeemotorola/termux_iq/main/neurox_iq.sh
 
 # Make executable
 chmod +x neurox_iq.sh
@@ -221,7 +221,7 @@ neurox
 brew install bash
 
 # Download the script
-curl -O https://raw.githubusercontent.com/yourrepo/neurox/main/neurox_iq.sh
+curl -O https://github.com/lifeemotorola/termux_iq/main/neurox_iq.sh
 chmod +x neurox_iq.sh
 
 # Run with bash 5+
@@ -231,7 +231,7 @@ chmod +x neurox_iq.sh
 ### Method 4: Git Clone
 
 ```bash
-git clone https://github.com/yourrepo/neurox-iq.git
+git clone (https://github.com/lifeemotorola/termux_iq.git)
 cd neurox-iq
 chmod +x neurox_iq.sh
 ./neurox_iq.sh
@@ -1386,7 +1386,7 @@ git checkout -b feature/new-questions-spatial
 ```
 MIT License
 
-Copyright (c) 2024 NEUROX IQ Platform
+Copyright (c) 2026 NEUROX IQ Platform
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
